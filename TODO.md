@@ -1,13 +1,15 @@
-# TODO List for Embedding and Vector DB Task
+# TODO: Flask Web App for RAG System
 
-- [x] Update requirements.txt with dependencies (sentence-transformers, chromadb)
-- [x] Create embed_and_store.py script for generating embeddings and storing in ChromaDB
-- [x] Create virtual environment and install dependencies using setup_env.sh
-- [x] Run the script to generate and store sample embeddings
-- [x] Verify the embeddings are stored and can be queried (optional test)
-- [x] Create a simple text-based database (list of short documents)
-- [x] Embed and store the documents in ChromaDB
-- [x] Create a query script for document retrieval
-- [x] Demonstrate RAG solution with sample queries
-- [x] Add Ollama integration for answer generation
-- [x] Test the complete RAG pipeline with generation
+## Completed Tasks
+- [x] Analyze existing RAG system files
+- [x] Create comprehensive plan
+- [x] Get user approval for plan
+- [x] Update requirements.txt to include Flask
+- [x] Create app.py with RAG integration
+- [x] Create templates/index.html for UI
+- [x] Create static/styles.css for basic styling
+- [x] Install updated dependencies
+- [x] Test Flask app locally
+
+## Pending Tasks
+- [ ] Update README.md with web app instructions
